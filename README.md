@@ -40,7 +40,7 @@ A React Native mobile application built with Expo that implements the Getting Th
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/ahsasnagar11/GTD-Productivity-App
    cd GTDProductivityApp
    ```
 
@@ -192,4 +192,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ❤️ for productivity enthusiasts**
+
